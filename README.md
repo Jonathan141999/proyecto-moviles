@@ -1,13 +1,21 @@
 # Documentación 
 ## Realizado por: Jonathan Alquinga y Guillermo Rivera
 
+PROBLEMÁTICA: Difícil proceso de búsqueda de lugares en los que los estudiantes de la Escuela Politécnica Nacional puedan realizar horas de prácticas pre prfesionales.
+SOLUCIÓN: Desarrollar una aplicación móvil que permita ofertar horas de prácticas pre profesionales a estudiantes de la Escuela Politécnica Nacional.
+
 ## 1.- Link del Backend
 https://github.com/Jonathan141999/Backend-Practicas.git
 ## 2.- Link del Frontend
 https://github.com/Jonathan141999/Poli-pasantias
 ## 3.- Link de Youtube
 https://www.youtube.com/watch?v=u002dIOfPdA
-## 4.- Capturas de Pantalla
+
+## 4.- Responsabilidades:
+Jonathan Alquinga: diseño y creación de base de datos e interfaces de usuario a nivel de font.
+Guillermo Rivera: levantamiento de requerimientos de la aplicación, configuración y despliegue de la apk dentro de la tienda de google play
+
+## 5.- Capturas de Pantalla
 
 ### Módulo de Autenticación
 ### Login
